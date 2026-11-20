@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Eight Years After the Whitepaper
+
+Ted Blackman ~rovnys-ricfer. *Urbit Systems Technical Journal* 1(1), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389598.svg)](https://doi.org/10.5281/zenodo.24389598) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i01/eight-years-after-the-whitepaper)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
